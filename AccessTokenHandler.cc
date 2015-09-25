@@ -10,8 +10,8 @@
 namespace
 {
 
-const char * const sAppID("wx8de856ff74a78450");
-const char * const sSecret("e5806e3470f6546026f3f6107de1c5ef");
+const char * const sAppID("");
+const char * const sSecret("");
 const char * const sTheURL("https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=");
 
 }
